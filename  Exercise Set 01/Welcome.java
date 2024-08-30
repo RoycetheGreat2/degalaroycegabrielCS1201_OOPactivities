@@ -1,3 +1,4 @@
+package Welcome;
 import java.util.Scanner;
 class welcome{
     public static void main(String[] args) {
