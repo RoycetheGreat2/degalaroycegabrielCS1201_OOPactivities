@@ -9,9 +9,9 @@ public class Main {
 
         Triangle triangle = new Triangle(6, 8, 10);
 
-
+        //collection of shapes
         Shape[] shapes = { square, rectangle, triangle };
-
+        //for computing and printing the perimeter and area
         ShapeCollection shapeCollection = new ShapeCollection(shapes);
 
 
